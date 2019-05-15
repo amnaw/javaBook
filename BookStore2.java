@@ -1,5 +1,5 @@
 /**********************************************************************************************************************************
- *                                                MADE BY AMNA'S TEAM                                                             *
+ *                                                    MADE BY AMNA                                                                *
  *********************************************************************************************************************************/
 package miniproject;
 
@@ -10,7 +10,7 @@ public class BookStore2{
      these VARs must be static & here to access them by any method  
      */
     
-    private static String[][] BooksArray;                        
+                           
     private static int Textbook = 0;                                     //0 initial value
     private static final Scanner input = new Scanner(System.in);        //Scanner obj
     private static final String SGAP = "       ";
